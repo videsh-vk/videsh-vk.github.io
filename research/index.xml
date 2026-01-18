@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Videsh&#39;s Portfolio</title>
+    <link>https://videshvk.github.io/research/</link>
+    <description>Recent content on Videsh&#39;s Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>vkvidesh@umich.edu (Videsh VK)</managingEditor>
+    <webMaster>vkvidesh@umich.edu (Videsh VK)</webMaster>
+    <copyright>© 2026 Videsh VK</copyright>
+    <atom:link href="https://videshvk.github.io/research/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Microscale Transport Laboratory</title>
+      <link>https://videshvk.github.io/research/empty/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>vkvidesh@umich.edu (Videsh VK)</author>
+      <guid>https://videshvk.github.io/research/empty/</guid>
+      <description>&lt;p&gt;Uncovered spatial bifurcation and asymmetric flow behavior in acoustically driven inhomogeneous fluids, allowing the creation of advanced acoustofluidic design strategies for efficient particle sorting and droplet patterning.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>
