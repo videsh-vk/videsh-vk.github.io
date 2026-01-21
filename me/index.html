@@ -4,7 +4,7 @@
   dir="ltr"
   class="scroll-smooth"
   data-default-appearance="dark"
-  data-auto-appearance="false"><head>
+  data-auto-appearance="false"><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
   <meta charset="utf-8">
   
     <meta http-equiv="content-language" content="en">
@@ -24,7 +24,7 @@
   
   
   
-  <link rel="canonical" href="https://videshvk.github.io/me/">
+  <link rel="canonical" href="http://localhost:1313/me/">
   
 
   
@@ -34,18 +34,6 @@
   
     
       
-        
-      
-    
-      
-        
-          <link href="https://github.com/videsh-vk" rel="me">
-        
-      
-    
-      
-        
-          <link href="https://instagram.com/videsh_vk" rel="me">
         
       
     
@@ -70,17 +58,15 @@
   
 
   
-  <meta property="og:url" content="https://videshvk.github.io/me/">
+  <meta property="og:url" content="http://localhost:1313/me/">
   <meta property="og:site_name" content="Videsh&#39;s Portfolio">
   <meta property="og:title" content="Videsh&#39;s Portfolio">
-  <meta property="og:description" content="About Me Love physics and tech, fascinated by all things automotive. Amateur photographer when I’m not wrecking my computer.">
   <meta property="og:locale" content="en">
   <meta property="og:type" content="article">
 
   
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="Videsh&#39;s Portfolio">
-  <meta name="twitter:description" content="About Me Love physics and tech, fascinated by all things automotive. Amateur photographer when I’m not wrecking my computer.">
 
   
   
@@ -234,7 +220,7 @@
     "headline": "",
     
     "inLanguage": "en",
-    "url" : "https://videshvk.github.io/me/",
+    "url" : "http://localhost:1313/me/",
     "author" : {
       "@type": "Person",
       "name": "Videsh VK"
@@ -248,19 +234,13 @@
     
     
     "mainEntityOfPage": "true",
-    "wordCount": "115"
+    "wordCount": "0"
   }]
   </script>
 
 
 
   
-  
-    
-
-
-
-
   
 
   
@@ -320,7 +300,7 @@
       
   
     <a
-      href="/me/"
+      href="/summary/"
       
       class="flex items-center bf-icon-color-hover"
       aria-label="About Me"
@@ -484,7 +464,7 @@
     
     <div class="px-2">
       <a
-        href="/me/"
+        href="/summary/"
         aria-label="About Me"
         
         class="flex items-center gap-4 group bf-icon-color-hover text-neutral-700 dark:text-neutral-200">
@@ -677,195 +657,36 @@
       
       
       
-        <div class="order-first lg:ml-auto px-0 lg:order-last lg:ps-8 lg:max-w-2xs">
-          <div class="toc ps-5 print:hidden lg:sticky lg:top-10">
-            
-              <details
-  open
-  id="TOCView"
-  class="toc-right mt-0 overflow-y-auto overscroll-contain bf-scrollbar rounded-lg -ms-5 ps-5 pe-2 hidden lg:block">
-  <summary
-    class="block py-1 text-lg font-semibold cursor-pointer bg-neutral-100 text-neutral-800 -ms-5 ps-5 dark:bg-neutral-700 dark:text-neutral-100 lg:hidden">
-    Table of Contents
-  </summary>
-  <div
-    class="min-w-[220px] py-2 border-dotted border-s-1 -ms-5 ps-5 dark:border-neutral-600">
-    <nav id="TableOfContents">
-  <ul>
-    <li><a href="#education">Education</a>
-      <ul>
-        <li><a href="#university-of-michigan-ann-arbor">University of Michigan, Ann Arbor</a></li>
-        <li><a href="#indian-institute-of-information-technology-design-and-manufacturing-kancheepuram">Indian Institute of Information Technology, Design and Manufacturing, Kancheepuram</a></li>
-      </ul>
-    </li>
-  </ul>
-</nav>
-  </div>
-</details>
-<details class="toc-inside mt-0 overflow-hidden rounded-lg -ms-5 ps-5 lg:hidden">
-  <summary
-    class="py-1 text-lg font-semibold cursor-pointer bg-neutral-100 text-neutral-800 -ms-5 ps-5 dark:bg-neutral-700 dark:text-neutral-100 lg:hidden">
-    Table of Contents
-  </summary>
-  <div
-    class="py-2 border-dotted border-neutral-300 border-s-1 -ms-5 ps-5 dark:border-neutral-600">
-    <nav id="TableOfContents">
-  <ul>
-    <li><a href="#education">Education</a>
-      <ul>
-        <li><a href="#university-of-michigan-ann-arbor">University of Michigan, Ann Arbor</a></li>
-        <li><a href="#indian-institute-of-information-technology-design-and-manufacturing-kancheepuram">Indian Institute of Information Technology, Design and Manufacturing, Kancheepuram</a></li>
-      </ul>
-    </li>
-  </ul>
-</nav>
-  </div>
-</details>
-
-
-<script>
-  (function () {
-    'use strict'
-
-    const SCROLL_OFFSET_RATIO = 0.33
-    const TOC_SELECTOR = '#TableOfContents'
-    const ANCHOR_SELECTOR = '.anchor'
-    const TOC_LINK_SELECTOR = 'a[href^="#"]'
-    const NESTED_LIST_SELECTOR = 'li ul'
-    const ACTIVE_CLASS = 'active'
-    let isJumpingToAnchor = false
-
-    function getActiveAnchorId(anchors, offsetRatio) {
-      const threshold = window.scrollY + window.innerHeight * offsetRatio
-      const tocLinks = [...document.querySelectorAll('#TableOfContents a[href^="#"]')]
-      const tocIds = new Set(tocLinks.map(link => link.getAttribute('href').substring(1)))
-
-      if (isJumpingToAnchor) {
-        for (let i = 0; i < anchors.length; i++) {
-          const anchor = anchors[i]
-          if (!tocIds.has(anchor.id)) continue
-          const top = anchor.getBoundingClientRect().top + window.scrollY
-          if (Math.abs(window.scrollY - top) < 100) {
-            return anchor.id
-          }
-        }
-      }
-
-      for (let i = anchors.length - 1; i >= 0; i--) {
-        const top = anchors[i].getBoundingClientRect().top + window.scrollY
-        if (top <= threshold && tocIds.has(anchors[i].id)) {
-          return anchors[i].id
-        }
-      }
-      return anchors.find(anchor => tocIds.has(anchor.id))?.id || ''
-    }
-
-    function updateTOC({ toc, anchors, links, scrollOffset, collapseInactive }) {
-      const activeId = getActiveAnchorId(anchors, scrollOffset)
-      if (!activeId) return
-
-      links.forEach(link => {
-        const isActive = link.getAttribute('href') === `#${activeId}`
-        link.classList.toggle(ACTIVE_CLASS, isActive)
-
-        if (collapseInactive) {
-          const ul = link.closest('li')?.querySelector('ul')
-          if (ul) ul.style.display = isActive ? '' : 'none'
-        }
-      })
-
-      if (collapseInactive) {
-        const activeLink = toc.querySelector(`a[href="#${CSS.escape(activeId)}"]`)
-        let el = activeLink
-        while (el && el !== toc) {
-          if (el.tagName === 'UL') el.style.display = ''
-          if (el.tagName === 'LI') el.querySelector('ul')?.style.setProperty('display', '')
-          el = el.parentElement
-        }
-      }
-    }
-
-    function initTOC() {
-      const toc = document.querySelector(TOC_SELECTOR)
-      if (!toc) return
-
-      const collapseInactive = false
-      const anchors = [...document.querySelectorAll(ANCHOR_SELECTOR)]
-      const links = [...toc.querySelectorAll(TOC_LINK_SELECTOR)]
-
-      if (collapseInactive) {
-        toc.querySelectorAll(NESTED_LIST_SELECTOR).forEach(ul => ul.style.display = 'none')
-      }
-
-      links.forEach(link => {
-        link.addEventListener('click', () => {
-          isJumpingToAnchor = true
-        })
-      })
-
-      const config = {
-        toc,
-        anchors,
-        links,
-        scrollOffset: SCROLL_OFFSET_RATIO,
-        collapseInactive
-      }
-
-      window.addEventListener('scroll', () => updateTOC(config), { passive: true })
-      window.addEventListener('hashchange', () => updateTOC(config), { passive: true })
-
-      updateTOC(config)
-    }
-
-    document.readyState === 'loading'
-      ? document.addEventListener('DOMContentLoaded', initTOC)
-      : initTOC()
-  })()
-</script>
-
-
-            
-          </div>
-        </div>
-      
 
 
       <div class="min-w-0 min-h-0 max-w-fit">
         
 
         <div class="article-content max-w-prose mb-20">
-          
-<h1 class="relative group">About Me
-    <div id="about-me" class="anchor"></div>
-    
-</h1>
-<p>Love physics and tech, fascinated by all things automotive.
-Amateur photographer when I’m not wrecking my computer.</p>
-<hr>
+          <!-- # About Me
 
-<h2 class="relative group">Education
-    <div id="education" class="anchor"></div>
-    
-</h2>
+Love physics and tech, fascinated by all things automotive.
+Amateur photographer when I’m not wrecking my computer.
 
-<h3 class="relative group">University of Michigan, Ann Arbor
-    <div id="university-of-michigan-ann-arbor" class="anchor"></div>
-    
-</h3>
-<p><strong>Master’s (M.S.E) in Mechanical Engineering</strong> — GPA: <strong>4.0</strong></p>
-<ul>
-<li>Relevant Coursework : Advanced Fluid Mechanics · Compressible Flow · Introduction to Turbulent Flows · Science of Predictive Modeling · Applied Nonlinear Dynamics.</li>
-</ul>
+---
+## Education
 
-<h3 class="relative group">Indian Institute of Information Technology, Design and Manufacturing, Kancheepuram
-    <div id="indian-institute-of-information-technology-design-and-manufacturing-kancheepuram" class="anchor"></div>
-    
-</h3>
-<p><strong>Bachelor&rsquo;s (B-Tech) in Mechanical Engineering</strong> - GPA : <strong>8.89/10</strong></p>
-<ul>
-<li>Relevant Coursework : Heat Transfer · Thermodynamics · FEA · Numerical Methods · CFD · Inverse Problem Solving · Mechanics of Materials · Systems Thinking for Design.</li>
-<li>Leadership: Vice-Chairperson of the ASME Student Section · Lead of the Photography Club, IMAGIX.</li>
-</ul>
+### University of Michigan, Ann Arbor
+**Master’s (M.S.E) in Mechanical Engineering** — GPA: **4.0**
+
+- Relevant Coursework : Advanced Fluid Mechanics · Compressible Flow · Introduction to Turbulent Flows · Science of Predictive Modeling · Applied Nonlinear Dynamics.
+
+
+### Indian Institute of Information Technology, Design and Manufacturing, Kancheepuram
+**Bachelor's (B-Tech) in Mechanical Engineering** - GPA : **8.89/10**
+
+- Relevant Coursework : Heat Transfer · Thermodynamics · FEA · Numerical Methods · CFD · Inverse Problem Solving · Mechanics of Materials · Systems Thinking for Design.
+- Leadership: Vice-Chairperson of the ASME Student Section · Lead of the Photography Club, IMAGIX.
+
+
+
+
+ -->
 
           
           
@@ -901,6 +722,30 @@ Amateur photographer when I’m not wrecking my computer.</p>
     
     <footer class="pt-8 max-w-prose print:hidden">
       
+  
+    
+    
+    
+    <div class="pt-8">
+      <hr class="border-dotted border-neutral-300 dark:border-neutral-600">
+      <div class="flex justify-between pt-3">
+        <span class="flex flex-col">
+          
+            <a
+              class="flex text-neutral-700 hover:text-primary-600 dark:text-neutral dark:hover:text-primary-400"
+              href="/summary/">
+              <span class="leading-6">
+                <span class="inline-block rtl:rotate-180">&larr;</span>&ensp;
+              </span>
+            </a>
+            
+          
+        </span>
+        <span class="flex flex-col items-end">
+          
+        </span>
+      </div>
+    </div>
   
 
 
@@ -977,7 +822,7 @@ Amateur photographer when I’m not wrecking my computer.</p>
 <div
   id="search-wrapper"
   class="invisible fixed inset-0 flex h-screen w-screen cursor-default flex-col bg-neutral-500/50 p-4 backdrop-blur-sm dark:bg-neutral-900/50 sm:p-6 md:p-[10vh] lg:p-[12vh] z-500"
-  data-url="https://videshvk.github.io/">
+  data-url="http://localhost:1313/">
   <div
     id="search-modal"
     class="flex flex-col w-full max-w-3xl min-h-0 mx-auto border rounded-md shadow-lg top-20 border-neutral-200 bg-neutral dark:border-neutral-700 dark:bg-neutral-800">

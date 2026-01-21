@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Videsh&#39;s Portfolio</title>
-    <link>https://videshvk.github.io/work/</link>
+    <link>http://localhost:1313/work/</link>
     <description>Recent content on Videsh&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>vkvidesh@umich.edu (Videsh VK)</managingEditor>
     <webMaster>vkvidesh@umich.edu (Videsh VK)</webMaster>
     <copyright>© 2026 Videsh VK</copyright>
-    <atom:link href="https://videshvk.github.io/work/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/work/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Internship at HyperHorizon PVT LTD</title>
-      <link>https://videshvk.github.io/work/hyperhorizon/</link>
+      <link>http://localhost:1313/work/hyperhorizon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>vkvidesh@umich.edu (Videsh VK)</author>
-      <guid>https://videshvk.github.io/work/hyperhorizon/</guid>
+      <guid>http://localhost:1313/work/hyperhorizon/</guid>
       <description>&lt;p&gt;Designed a full 6-DOF dynamic model for a fin-controlled autonomous underwater vehicle, enabling simulation-driven design and control development.&lt;/p&gt;</description>
       
     </item>
