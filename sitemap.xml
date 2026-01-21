@@ -3,62 +3,62 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/projects/mars/</loc>
+    <loc>https://videshvk.github.io/projects/mars/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/projects/tsa/</loc>
+    <loc>https://videshvk.github.io/projects/tsa/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/projects/robotics_club/</loc>
+    <loc>https://videshvk.github.io/projects/robotics_club/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/projects/pt/</loc>
+    <loc>https://videshvk.github.io/projects/pt/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://videshvk.github.io/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/me/</loc>
+    <loc>https://videshvk.github.io/me/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/projects/</loc>
+    <loc>https://videshvk.github.io/projects/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/research/</loc>
+    <loc>https://videshvk.github.io/research/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/summary/</loc>
+    <loc>https://videshvk.github.io/summary/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/work/</loc>
+    <loc>https://videshvk.github.io/work/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/work/hyperhorizon/</loc>
+    <loc>https://videshvk.github.io/work/hyperhorizon/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/research/empty/</loc>
+    <loc>https://videshvk.github.io/research/empty/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

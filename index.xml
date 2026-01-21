@@ -2,91 +2,91 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Videsh&#39;s Portfolio</title>
-    <link>http://localhost:1313/</link>
+    <link>https://videshvk.github.io/</link>
     <description>Recent content on Videsh&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>vkvidesh@umich.edu (Videsh VK)</managingEditor>
     <webMaster>vkvidesh@umich.edu (Videsh VK)</webMaster>
     <copyright>© 2026 Videsh VK</copyright>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://videshvk.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Model MaRS Rover</title>
-      <link>http://localhost:1313/projects/mars/</link>
+      <link>https://videshvk.github.io/projects/mars/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>vkvidesh@umich.edu (Videsh VK)</author>
-      <guid>http://localhost:1313/projects/mars/</guid>
+      <guid>https://videshvk.github.io/projects/mars/</guid>
       <description>&lt;p&gt;Engineered a 3-legged rocker–bogie suspension Mars rover to compensate for off-center mass from a side-mounted 5-DOF manipulator.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>TSA Driven Exoskeletal Glove</title>
-      <link>http://localhost:1313/projects/tsa/</link>
+      <link>https://videshvk.github.io/projects/tsa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>vkvidesh@umich.edu (Videsh VK)</author>
-      <guid>http://localhost:1313/projects/tsa/</guid>
+      <guid>https://videshvk.github.io/projects/tsa/</guid>
       <description>&lt;p&gt;Developed a lightweight hand rehabilitation exoskeleton for spasticity using twisted string actuation, achieving comparable functional capability at ~33% of the cost of commercial systems.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>5-DOF Pick and Place Manipulator </title>
-      <link>http://localhost:1313/projects/robotics_club/</link>
+      <link>https://videshvk.github.io/projects/robotics_club/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>vkvidesh@umich.edu (Videsh VK)</author>
-      <guid>http://localhost:1313/projects/robotics_club/</guid>
+      <guid>https://videshvk.github.io/projects/robotics_club/</guid>
       <description>&lt;p&gt;Designed and fabricated a 5DOF pick and place manipulator for the Grid Competition hosted by Flipkart.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Cervical Collar for Comfort</title>
-      <link>http://localhost:1313/projects/pt/</link>
+      <link>https://videshvk.github.io/projects/pt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>vkvidesh@umich.edu (Videsh VK)</author>
-      <guid>http://localhost:1313/projects/pt/</guid>
+      <guid>https://videshvk.github.io/projects/pt/</guid>
       <description>&lt;p&gt;By prioritizing mobility alongside support, the optimized cervical collar was developed to improve patient comfort, aid rehabilitation, and promote independence in daily activities.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title></title>
-      <link>http://localhost:1313/me/</link>
+      <link>https://videshvk.github.io/me/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>vkvidesh@umich.edu (Videsh VK)</author>
-      <guid>http://localhost:1313/me/</guid>
+      <guid>https://videshvk.github.io/me/</guid>
       <description>&lt;!-- # About Me&#xA;&#xA;Love physics and tech, fascinated by all things automotive.&#xA;Amateur photographer when I’m not wrecking my computer.&#xA;&#xA;---&#xA;## Education&#xA;&#xA;### University of Michigan, Ann Arbor&#xA;**Master’s (M.S.E) in Mechanical Engineering** — GPA: **4.0**&#xA;&#xA;- Relevant Coursework : Advanced Fluid Mechanics · Compressible Flow · Introduction to Turbulent Flows · Science of Predictive Modeling · Applied Nonlinear Dynamics.&#xA;&#xA;&#xA;### Indian Institute of Information Technology, Design and Manufacturing, Kancheepuram&#xA;**Bachelor&#39;s (B-Tech) in Mechanical Engineering** - GPA : **8.89/10**&#xA;&#xA;- Relevant Coursework : Heat Transfer · Thermodynamics · FEA · Numerical Methods · CFD · Inverse Problem Solving · Mechanics of Materials · Systems Thinking for Design.&#xA;- Leadership: Vice-Chairperson of the ASME Student Section · Lead of the Photography Club, IMAGIX.&#xA;&#xA;&#xA;&#xA;&#xA; --&gt;</description>
       
     </item>
     
     <item>
       <title></title>
-      <link>http://localhost:1313/summary/</link>
+      <link>https://videshvk.github.io/summary/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>vkvidesh@umich.edu (Videsh VK)</author>
-      <guid>http://localhost:1313/summary/</guid>
-      <description>&lt;h1 class=&#34;relative group&#34;&gt;About Me&#xA;    &lt;div id=&#34;about-me&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;&lt;/h1&gt;&#xA;&lt;!-- &#xA;&#xA;  &#xA;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/pro_photo.jpeg&#34;&#xA;    alt=&#34;Stable Flow Configuration&#34; width=&#34;300&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA; --&gt;&#xA;&#xA;&#xA;  &#xA;  &#xA;  &#xA;  &lt;div class=&#34;width-patch&#34;&gt;&lt;/div&gt;&#xA;&lt;div id=&#34;gallery-930f4861ded98062dce244577c7719d6&#34; class=&#34;gallery&#34;&gt;&#xA;  &#xA;  &lt;img src=&#34;http://localhost:1313/1.jpeg&#34; class=&#34;grid-w40&#34; /&gt;&#xA;  &lt;img src=&#34;http://localhost:1313/3.jpeg&#34; class=&#34;grid-w50&#34; /&gt;&#xA;  &lt;img src=&#34;http://localhost:1313/2.jpg&#34; class=&#34;grid-w40&#34; /&gt;&#xA;  &lt;img src=&#34;http://localhost:1313/5.jpeg&#34; class=&#34;grid-w50&#34; /&gt;&#xA;&#xA;&lt;/div&gt;</description>
+      <guid>https://videshvk.github.io/summary/</guid>
+      <description>&lt;h1 class=&#34;relative group&#34;&gt;About Me&#xA;    &lt;div id=&#34;about-me&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;&lt;/h1&gt;&#xA;&lt;!-- &#xA;&#xA;  &#xA;&#xA;&lt;figure&gt;&lt;img src=&#34;https://videshvk.github.io/pro_photo.jpeg&#34;&#xA;    alt=&#34;Stable Flow Configuration&#34; width=&#34;300&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA; --&gt;&#xA;&#xA;&#xA;  &#xA;  &#xA;  &#xA;  &lt;div class=&#34;width-patch&#34;&gt;&lt;/div&gt;&#xA;&lt;div id=&#34;gallery-930f4861ded98062dce244577c7719d6&#34; class=&#34;gallery&#34;&gt;&#xA;  &#xA;  &lt;img src=&#34;https://videshvk.github.io/1.jpeg&#34; class=&#34;grid-w40&#34; /&gt;&#xA;  &lt;img src=&#34;https://videshvk.github.io/3.jpeg&#34; class=&#34;grid-w50&#34; /&gt;&#xA;  &lt;img src=&#34;https://videshvk.github.io/2.jpg&#34; class=&#34;grid-w40&#34; /&gt;&#xA;  &lt;img src=&#34;https://videshvk.github.io/5.jpeg&#34; class=&#34;grid-w50&#34; /&gt;&#xA;&#xA;&lt;/div&gt;</description>
       
     </item>
     
     <item>
       <title>Internship at HyperHorizon PVT LTD</title>
-      <link>http://localhost:1313/work/hyperhorizon/</link>
+      <link>https://videshvk.github.io/work/hyperhorizon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>vkvidesh@umich.edu (Videsh VK)</author>
-      <guid>http://localhost:1313/work/hyperhorizon/</guid>
+      <guid>https://videshvk.github.io/work/hyperhorizon/</guid>
       <description>&lt;p&gt;Designed a full 6-DOF dynamic model for a fin-controlled autonomous underwater vehicle, enabling simulation-driven design and control development.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Microscale Transport Laboratory</title>
-      <link>http://localhost:1313/research/empty/</link>
+      <link>https://videshvk.github.io/research/empty/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>vkvidesh@umich.edu (Videsh VK)</author>
-      <guid>http://localhost:1313/research/empty/</guid>
+      <guid>https://videshvk.github.io/research/empty/</guid>
       <description>&lt;p&gt;Uncovered spatial bifurcation and asymmetric flow behavior in acoustically driven inhomogeneous fluids, allowing the creation of advanced acoustofluidic design strategies for efficient particle sorting and droplet patterning.&lt;/p&gt;</description>
       
     </item>

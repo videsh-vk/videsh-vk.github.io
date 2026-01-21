@@ -2,51 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Videsh&#39;s Portfolio</title>
-    <link>http://localhost:1313/projects/</link>
+    <link>https://videshvk.github.io/projects/</link>
     <description>Recent content on Videsh&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>vkvidesh@umich.edu (Videsh VK)</managingEditor>
     <webMaster>vkvidesh@umich.edu (Videsh VK)</webMaster>
     <copyright>© 2026 Videsh VK</copyright>
-    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://videshvk.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Model MaRS Rover</title>
-      <link>http://localhost:1313/projects/mars/</link>
+      <link>https://videshvk.github.io/projects/mars/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>vkvidesh@umich.edu (Videsh VK)</author>
-      <guid>http://localhost:1313/projects/mars/</guid>
+      <guid>https://videshvk.github.io/projects/mars/</guid>
       <description>&lt;p&gt;Engineered a 3-legged rocker–bogie suspension Mars rover to compensate for off-center mass from a side-mounted 5-DOF manipulator.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>TSA Driven Exoskeletal Glove</title>
-      <link>http://localhost:1313/projects/tsa/</link>
+      <link>https://videshvk.github.io/projects/tsa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>vkvidesh@umich.edu (Videsh VK)</author>
-      <guid>http://localhost:1313/projects/tsa/</guid>
+      <guid>https://videshvk.github.io/projects/tsa/</guid>
       <description>&lt;p&gt;Developed a lightweight hand rehabilitation exoskeleton for spasticity using twisted string actuation, achieving comparable functional capability at ~33% of the cost of commercial systems.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>5-DOF Pick and Place Manipulator </title>
-      <link>http://localhost:1313/projects/robotics_club/</link>
+      <link>https://videshvk.github.io/projects/robotics_club/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>vkvidesh@umich.edu (Videsh VK)</author>
-      <guid>http://localhost:1313/projects/robotics_club/</guid>
+      <guid>https://videshvk.github.io/projects/robotics_club/</guid>
       <description>&lt;p&gt;Designed and fabricated a 5DOF pick and place manipulator for the Grid Competition hosted by Flipkart.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Cervical Collar for Comfort</title>
-      <link>http://localhost:1313/projects/pt/</link>
+      <link>https://videshvk.github.io/projects/pt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>vkvidesh@umich.edu (Videsh VK)</author>
-      <guid>http://localhost:1313/projects/pt/</guid>
+      <guid>https://videshvk.github.io/projects/pt/</guid>
       <description>&lt;p&gt;By prioritizing mobility alongside support, the optimized cervical collar was developed to improve patient comfort, aid rehabilitation, and promote independence in daily activities.&lt;/p&gt;</description>
       
     </item>
